@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anja.drayton@gmail.com
+	name = Anja Drayton
